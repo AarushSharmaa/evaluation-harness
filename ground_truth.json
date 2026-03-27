@@ -1,0 +1,18 @@
+{
+  "doc_01_invoice": {
+    "carrier_name": "Clearwater Carriers LLC",
+    "linehaul_rate": 1350.0,
+    "fuel_surcharge": 189.0,
+    "accessorial_charges": 75.0,
+    "weight": 28000.0,
+    "total_amount": 1614.0
+  },
+  "doc_02_bol": {
+    "carrier_name": "Clearwater Carriers LLC",
+    "linehaul_rate": null,
+    "fuel_surcharge": null,
+    "accessorial_charges": null,
+    "weight": 28000.0,
+    "total_amount": null
+  }
+}
